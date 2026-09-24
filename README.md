@@ -33,6 +33,11 @@
 * Realizar en la rama main todo lo que corresponde a esta pregunta.
 
 **📝 Respuesta:**
+**📝 Respuesta:**
+
+* **git clone:** Copia un repositorio remoto completo de GitHub a la computadora local para trabajar en él.
+* **fork:** Crea una copia de un repositorio ajeno dentro de tu propia cuenta de GitHub, permitiendo hacer cambios sin modificar el proyecto original.
+* **git pull:** Descarga los cambios más recientes del repositorio remoto y los fusiona en la rama local actual.
 
 
 --------------------------------------------------------------------------------
