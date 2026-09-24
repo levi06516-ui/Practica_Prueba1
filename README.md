@@ -39,7 +39,15 @@
 * **fork:** Crea una copia de un repositorio ajeno dentro de tu propia cuenta de GitHub, permitiendo hacer cambios sin modificar el proyecto original.
 * **git pull:** Descarga los cambios más recientes del repositorio remoto y los fusiona en la rama local actual.
 
-
+#### Proceso seguido:
+1. **¿Cómo se realizó el fork?**  
+   Fui al repositorio original en GitHub y presioné el botón "Fork", lo cual generó una copia del proyecto bajo mi cuenta personal de GitHub.
+   (images/fork.png)
+2. **¿Cómo se realizó el clone del fork?**  
+   En la terminal de mi equipo, ejecuté `git clone https://github.com/TU_USUARIO/Practica_Prueba.git` para descargar la copia localmente[cite: 3].
+   (images/clonefork.png)
+3. **¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?**  
+   Ejecuté en la terminal el comando `git remote -v` y confirmé que la URL del remoto `origin` apuntaba a mi usuario personal de GitHub[cite: 3].
 --------------------------------------------------------------------------------
 
 #### Pregunta 2 (1 punto)
